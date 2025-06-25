@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "775869480190",
+    "project_id": "examprepai-2cl0p",
+    "storage_bucket": "examprepai-2cl0p.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775869480190:android:147c40f81e1be3bcacf9af",
+        "android_client_info": {
+          "package_name": "Com.DISA.TEST"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBL4oaeYFklicKr83MtRLbLzX7UMPBhIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
